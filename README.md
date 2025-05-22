@@ -1,4 +1,4 @@
-# Analisis de datos para las ventas de "La oficina" Beer&Snacks 
+# Análisis de datos para las ventas de "La oficina" Beer&Snacks 
 ## En este proyecto se analizará una base datos de una tienda desde su creación a través del modelo de negocio "canvas".
 ### Herramientas a utilizar:
 - Microsft Excel
